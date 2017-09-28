@@ -10,6 +10,7 @@ tiled_bg:           true   # Set this true if you want to tile your background i
 locale:             en_US
 baseurl:            /
 #url:                http://colorcoding.org
+mavenurl:                http://maven.colorcoding.org
 
 # Jekyll
 permalink:          /:title/
