@@ -9,8 +9,8 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 baseurl:            /
-#url:                http://colorcoding.org
-mavenurl:                http://maven.colorcoding.org
+url:                /../../
+mavenurl:           http://maven.colorcoding.org
 
 # Jekyll
 permalink:          /:title/
